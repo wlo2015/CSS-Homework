@@ -32,6 +32,7 @@ body {
   margin-top: 10px;
 }
 #nav-list a {
+  background-color: #4523a4;
   color: #259C49;
   text-align: center;
 }
